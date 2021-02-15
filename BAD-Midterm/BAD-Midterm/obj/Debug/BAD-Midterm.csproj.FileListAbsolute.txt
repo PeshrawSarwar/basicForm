@@ -1,0 +1,11 @@
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\bin\Debug\BAD-Midterm.exe.config
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\bin\Debug\BAD-Midterm.exe
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\bin\Debug\BAD-Midterm.pdb
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD-Midterm.csprojAssemblyReference.cache
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD_Midterm.Form1.resources
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD_Midterm.Properties.Resources.resources
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD-Midterm.csproj.GenerateResource.cache
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD-Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD-Midterm.exe
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD-Midterm.pdb
+C:\Users\Pesh4\Desktop\Midterm - BAD\BAD-Midterm\BAD-Midterm\obj\Debug\BAD_Midterm.Form2.resources
